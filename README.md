@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @S-Stephan
-- 👀 I’m interested in ...frontend development
-- 🌱 I’m currently learning ...React
+- 👀 I’m interested in ...backend development
+- 🌱 I’m currently learning ...Python and Django
 - 📫 How to reach me ...susan.e.stephan@gmail.com
 
 <!---
